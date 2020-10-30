@@ -52,7 +52,16 @@ I ran `py -m pip freeze` again.
 And here is the dependencies list:  
 ![image](https://github.com/TodXu/Homework2/blob/master/Freeze.JPG)  
 
+I noticed that I only manually installed numpy and matplotlib package, but the dependency list I've extracted has several more dependencies.  
+I think that is other dependencies associated with either the numpy or the matplotlib.  
+When I installed numpy and matplotlib dependency, other dependencies are part of numpy or matplotlib so that they're installed to my environment, too.  
 
+#### b). Gitignore  
+I've created a hidden file named ".gitignore" under the local Homework 2 folder.  
+And I edited it by notepad and write `dsci560H4/` into it.  
+This is to exclude dsci560H4 environment folder from github commit.  
+![image](https://github.com/TodXu/Homework2/blob/master/ignore1.JPG)  
+![image](https://github.com/TodXu/Homework2/blob/master/ignore2.JPG)  
 
 
 
