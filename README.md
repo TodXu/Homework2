@@ -67,6 +67,19 @@ This is to exclude dsci560H4 environment folder from github commit.
 I downloaded the dependencies by `py -m pip freeze > requirements.txt` into the requirements.txt file.  
 Then I uploaded it to my Github.  
 
+### Question 5: Binder  
+I've updated the jupyter notebook (Homework4.ipynb) to include visualizations of the initial, intermediate and final results.  
+And I have uploaded the notebook to my Github repository.  
+To make sure it is executable in Binder, I uploaded the requirements.txt(In Question 4 c).) to meet all the required dependencies.  
+
+A binder badge to click and open the Binder tree:  
+
+A binder badge to click and open the Notebook (Homework4.ipynb) directly:  
+
+
+
+
+
 
 
 
