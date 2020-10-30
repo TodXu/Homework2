@@ -15,11 +15,8 @@ Zenodo badge with the DOI:  [![DOI](https://zenodo.org/badge/298433408.svg)](htt
 
 ## Homework 4  
 
-A binder badge to click and open the Binder tree:    
+A binder badge to click and open the Binder, my notebook is named after Homework4.ipynb:    
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/TodXu/Homework2/master)
-
-A binder badge to click and open the Notebook (Homework4.ipynb) directly:  
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/TodXu/Homework2/master?filepath=https%3A%2F%2Fgithub.com%2FTodXu%2FHomework2%2Fblob%2Fmaster%2FHomework4.ipynb)
 
 
 ### Question 1:  Create a blank virtual environment in the local repository from homework 2  
@@ -79,12 +76,8 @@ I've updated the jupyter notebook (Homework4.ipynb) to include visualizations of
 And I have uploaded the notebook to my Github repository.  
 To make sure it is executable in Binder, I uploaded the requirements.txt(In Question 4 c).) to meet all the required dependencies.  
 
-A binder badge to click and open the Binder tree:  
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/TodXu/Homework2/master)  
-  
-  
-A binder badge to click and open the Notebook (Homework4.ipynb) directly:  
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/TodXu/Homework2/master?filepath=https%3A%2F%2Fgithub.com%2FTodXu%2FHomework2%2Fblob%2Fmaster%2FHomework4.ipynb)
+A binder badge to click and open the Binder, my notebook is named after Homework4.ipynb:    
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/TodXu/Homework2/master)
 
 
 
