@@ -8,5 +8,6 @@
 
 Zenodo badge with the DOI:  [![DOI](https://zenodo.org/badge/298433408.svg)](https://zenodo.org/badge/latestdoi/298433408)
 
+https://notebooks.gesis.org/binder/v2/gh/TodXu/Homework2/1561b65c78a9b03c578e4ca140f504f14c1b6154
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/TodXu/Homework2/master?filepath=https%3A%2F%2Fgithub.com%2FTodXu%2FHomework2%2Fblob%2Fmaster%2FHomework2.ipynb)
+https://notebooks.gesis.org/binder/v2/gh/TodXu/Homework2/1561b65c78a9b03c578e4ca140f504f14c1b6154
