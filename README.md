@@ -19,7 +19,7 @@ A binder badge to click and open the Binder tree:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/TodXu/Homework2/master)
 
 A binder badge to click and open the Notebook (Homework4.ipynb) directly:  
-[![Binder](https://mybinder.org/v2/gh/TodXu/Homework2/c4a3d27f942af75a0b42c6d7424cb6fff8b97324)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/TodXu/Homework2/c4a3d27f942af75a0b42c6d7424cb6fff8b97324)
 
 
 ### Question 1:  Create a blank virtual environment in the local repository from homework 2  
@@ -84,7 +84,7 @@ A binder badge to click and open the Binder tree:
   
   
 A binder badge to click and open the Notebook (Homework4.ipynb) directly:  
-[![Binder](https://mybinder.org/v2/gh/TodXu/Homework2/c4a3d27f942af75a0b42c6d7424cb6fff8b97324)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/TodXu/Homework2/c4a3d27f942af75a0b42c6d7424cb6fff8b97324)
 
 
 
