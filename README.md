@@ -8,6 +8,6 @@
 
 Zenodo badge with the DOI:  [![DOI](https://zenodo.org/badge/298433408.svg)](https://zenodo.org/badge/latestdoi/298433408)
 
-https://notebooks.gesis.org/binder/v2/gh/TodXu/Homework2/1561b65c78a9b03c578e4ca140f504f14c1b6154
+[![Binder](https://mybinder.org/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/TodXu/Homework2/1561b65c78a9b03c578e4ca140f504f14c1b6154)
 
-https://notebooks.gesis.org/binder/v2/gh/TodXu/Homework2/1561b65c78a9b03c578e4ca140f504f14c1b6154
+[![Binder](https://mybinder.org/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/TodXu/Homework2/1561b65c78a9b03c578e4ca140f504f14c1b6154)
