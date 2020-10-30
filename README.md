@@ -39,6 +39,8 @@ Run the 3 scripts from homework2
 `py Equation_Number_Generator.py`  
 `py Visualization.py`  
 And here is the scrrenshot of my terminal:  
+![image](https://github.com/TodXu/Homework2/blob/master/Terminal1.JPG)
+![image](https://github.com/TodXu/Homework2/blob/master/Terminal2.JPG)
 
 
 
