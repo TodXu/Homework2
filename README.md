@@ -8,12 +8,17 @@
 
 Zenodo badge with the DOI:  [![DOI](https://zenodo.org/badge/298433408.svg)](https://zenodo.org/badge/latestdoi/298433408)
 
+
+
+
+
+
+## Homework 4  
+
+A binder badge to click and open the Binder tree:  
 [![Binder](https://mybinder.org/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/TodXu/Homework2/1561b65c78a9b03c578e4ca140f504f14c1b6154)
-
+A binder badge to click and open the Notebook (Homework4.ipynb) directly:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/TodXu/Homework2/1561b65c78a9b03c578e4ca140f504f14c1b6154)
-
-
-## Homework 4
 
 ### Question 1:  Create a blank virtual environment in the local repository from homework 2  
 
