@@ -40,7 +40,19 @@ Run the 3 scripts from homework2
 `py Visualization.py`  
 And here is the scrrenshot of my terminal:  
 ![image](https://github.com/TodXu/Homework2/blob/master/Terminal1.JPG)
-![image](https://github.com/TodXu/Homework2/blob/master/Terminal2.JPG)
+![image](https://github.com/TodXu/Homework2/blob/master/Terminal2.JPG)  
+
+### Question 4: Extract the dependencies of your virtual environment  
+#### a).Compare the packages that I manually installed versus the dependency list I extracted.  
+I've check the dependecies by running:  
+`py -m pip freeze`  
+At the very beginning of my virtual environment, the dependency list is all empty.  
+After I installed the numpy and matplotlib library,  
+I ran `py -m pip freeze` again.  
+And here is the dependencies list:  
+![image](https://github.com/TodXu/Homework2/blob/master/Freeze.JPG)  
+
+
 
 
 
