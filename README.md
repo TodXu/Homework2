@@ -38,7 +38,7 @@ Run the 3 scripts from homework2
 `py Random_Number_Generator.py`  
 `py Equation_Number_Generator.py`  
 `py Visualization.py`  
-And here is the scrrenshot of my terminal:  
+And here is the screenshot of my terminal:  
 ![image](https://github.com/TodXu/Homework2/blob/master/Terminal1.JPG)
 ![image](https://github.com/TodXu/Homework2/blob/master/Terminal2.JPG)  
 
@@ -56,12 +56,17 @@ I noticed that I only manually installed numpy and matplotlib package, but the d
 I think that is other dependencies associated with either the numpy or the matplotlib.  
 When I installed numpy and matplotlib dependency, other dependencies are part of numpy or matplotlib so that they're installed to my environment, too.  
 
-#### b). Gitignore  
+#### b). gitignore  
 I've created a hidden file named ".gitignore" under the local Homework 2 folder.  
-And I edited it by notepad and write `dsci560H4/` into it.  
-This is to exclude dsci560H4 environment folder from github commit.  
 ![image](https://github.com/TodXu/Homework2/blob/master/ignore1.JPG)  
 ![image](https://github.com/TodXu/Homework2/blob/master/ignore2.JPG)  
+And I edited it by notepad and write `dsci560H4/` into it.  
+This is to exclude dsci560H4 environment folder from github commit.  
+
+#### c). Upload extracted dependencies to GitHub  
+I downloaded the dependencies by `py -m pip freeze > requirements.txt` into the requirements.txt file.  
+Then I uploaded it to my Github.  
+
 
 
 
